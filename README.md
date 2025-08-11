@@ -10,4 +10,4 @@ favicon
 
 # Project URL
 
-https://github.com/kraljic9/Single-Page-CV.git
+https://kraljic9.github.io/Single-Page-CV/
