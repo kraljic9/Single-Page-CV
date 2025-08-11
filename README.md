@@ -8,6 +8,6 @@ h1 element
 multiple paragraph elements
 favicon
 
-# Project URL
+## Project URL
 
-https://kraljic9.github.io/Single-Page-CV/
+[View the live CV here](https://kraljic9.github.io/Single-Page-CV/)
